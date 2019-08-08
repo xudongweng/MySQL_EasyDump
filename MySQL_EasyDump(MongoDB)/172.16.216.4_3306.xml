@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<information>
+  <link linkname="172.16.216.4_3306">
+    <database db="bershka_crm" guid="8255bcd9-0127-4788-9279-1871aecd46ac" day="14" splite="1" />
+    <database db="yamaha" guid="b93f4be5-95f7-45d7-9842-56d35ac94754" day="14" splite="1" />
+    <database db="kao_sofina" guid="4c7aa40d-8f49-4d95-96e9-09da3944843e" day="14" splite="1" />
+    <database db="wacoalcrmv3" guid="65f184fa-75a9-4b31-94a6-b7d3c183a6b3" day="14" splite="1" />
+    <database db="misumi" guid="8018a0de-24ff-432d-8ca9-548ff95cd1cc" day="14" splite="1" />
+    <database db="unitw" guid="7b98366a-bb69-4539-a6cd-17593fb01edd" day="14" splite="1" />
+    <database db="kanebo_2_2" guid="5681c095-f46b-414f-8943-d20a841a13c9" day="14" splite="1" />
+    <database db="gu_crm" guid="0f79ebab-ce78-42ae-95a7-55221513e639" day="14" splite="1" />
+    <database db="gu" guid="5580cc52-978a-4c72-bfc0-81ce086bc951" day="14" splite="1" />
+    <database db="canon" guid="44784d43-192a-48d8-a097-649f44d3a4c1" day="14" splite="1" />
+    <database db="mango" guid="7319a706-220a-4a40-ae34-edfe8c4cb16c" day="14" splite="1" />
+  </link>
+</information>

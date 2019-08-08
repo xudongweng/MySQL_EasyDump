@@ -1,0 +1,12 @@
+20160617091628
+class:XMLController.readConfig(config,com.cfg.PublicPropertyTmp@1b1bfcf8)
+error:D:\NetBeansProjects\MySQL_EasyDump_Client\dist\config.xml (系统找不到指定的文件。)
+
+20160617100727
+class:RPCInfoController.getLinkPathXml(172.16.176.13,13306)
+error:Failed to read server's response: Connection timed out: connect
+
+20160617100727
+class:JFManagementClient.JFManagementClient
+error:null
+

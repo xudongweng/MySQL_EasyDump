@@ -1,0 +1,26 @@
+2019-05-16 14:32:30 Initialization......
+2019-05-16 14:32:30 Start backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --skip-add-locks --quick --single-transaction --default-character-set=utf8 katest 111 --result-file=D:\backup\localhost\katest\20190516143230\111.sql
+2019-05-16 14:32:32 Finished backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --skip-add-locks --quick --single-transaction --default-character-set=utf8 katest 111 --result-file=D:\backup\localhost\katest\20190516143230\111.sql
+2019-05-16 14:32:32 Start backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --skip-add-locks --quick --single-transaction --default-character-set=utf8 katest test --result-file=D:\backup\localhost\katest\20190516143230\test.sql
+2019-05-16 14:32:32 Finished backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --skip-add-locks --quick --single-transaction --default-character-set=utf8 katest test --result-file=D:\backup\localhost\katest\20190516143230\test.sql
+2019-05-16 14:32:32 Start backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --skip-add-locks --quick --single-transaction --default-character-set=utf8 katest --force -n -t -d -R --result-file=D:\backup\localhost\katest\20190516143230\procedures.sql
+2019-05-16 14:32:33 Finished backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --skip-add-locks --quick --single-transaction --default-character-set=utf8 katest --force -n -t -d -R --result-file=D:\backup\localhost\katest\20190516143230\procedures.sql
+Disk:C:\
+Freespace:51.89GB
+Totalspace:115.92GB
+Usablespace:51.89GB
+Usedspace:64.03GB
+Disk:D:\
+Freespace:289.57GB
+Totalspace:348.57GB
+Usablespace:289.57GB
+Usedspace:59.00GB
+Disk:E:\
+Freespace:0B
+Totalspace:0B
+Usablespace:0B
+Usedspace:0B
+2019-05-16 14:32:33 Start compress
+2019-05-16 14:32:33 Finish compressed
+2019-05-16 14:32:33 All finished
+

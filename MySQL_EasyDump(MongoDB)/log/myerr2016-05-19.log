@@ -1,0 +1,100 @@
+20160519105607
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519105607
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519105607
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519105608
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519105608
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519105608
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519105608
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519105608
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519105703
+class:MongoHelper.insertDocument(10.2.0.235,27017,backuplog,mysqlindex,doc,root,123456)
+error:Maximum serialization depth exceeded (does the object being serialized have a circular reference?).
+
+20160519153249
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.215_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153249
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.215_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153249
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.21_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153249
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.21_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153249
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.211_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153249
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.211_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153250
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.4_3310,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153250
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.4_3310,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153250
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.189_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153250
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.189_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153250
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.209.10_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153250
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.209.10_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153250
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.21_hm,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153251
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.21_hm,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153251
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.4_3306,root,123456)
+error:Unknown modifier: $kkk
+
+20160519153251
+class:MongoHelper.delDocument(10.2.0.235,27017,backuplog,mysqlindex,linkname,172.16.216.4_3306,root,123456)
+error:Unknown modifier: $kkk
+

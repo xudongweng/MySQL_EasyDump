@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="gb2312"?>
+<information>
+  <ipport ip="172.16.216.27" port="13306" mserver="172.16.216.27" mport="27017" mdb="backuplog" muser="root" mpwd="123456" mongodb="1" />
+  <ipport ip="172.16.176.13" port="13306" mserver="172.16.176.13" mport="27017" mdb="backuplog" muser="root" mpwd="123456" mongodb="1" />
+  <ipport ip="10.1.0.109" port="13306" mserver="10.1.0.109" mport="27017" mdb="backuplog" muser="root" mpwd="123456" mongodb="0" />
+</information>

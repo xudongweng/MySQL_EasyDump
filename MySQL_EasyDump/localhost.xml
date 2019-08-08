@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="gb2312"?>
+<information>
+  <link linkname="localhost">
+    <database db="test" guid="399b26cd-dbc5-479d-b1db-f4694be74b4a" day="7" splite="0" />
+    <database db="katest" guid="fd756feb-79b6-4b42-8eb9-75ec49a38244" day="7" splite="1" />
+  </link>
+</information>

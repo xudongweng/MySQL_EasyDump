@@ -1,0 +1,160 @@
+2017-05-07 09:03:02 Initialization......
+2017-05-07 09:03:03 Start backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --quick --single-transaction --default-character-set=utf8 -R test --result-file=D:\backup\localhost\test\20170507090303\test.sql
+2017-05-07 09:03:04 Finished backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --quick --single-transaction --default-character-set=utf8 -R test --result-file=D:\backup\localhost\test\20170507090303\test.sql
+Disk:C:\
+Freespace:32.66GB
+Totalspace:97.56GB
+Usablespace:32.66GB
+Usedspace:64.90GB
+Disk:D:\
+Freespace:227.80GB
+Totalspace:368.10GB
+Usablespace:227.80GB
+Usedspace:140.30GB
+Disk:E:\
+Freespace:0B
+Totalspace:0B
+Usablespace:0B
+Usedspace:0B
+Disk:F:\
+Freespace:639.40GB
+Totalspace:2794.39GB
+Usablespace:639.40GB
+Usedspace:2154.99GB
+Disk:Z:\
+Freespace:71.68MB
+Totalspace:100.00MB
+Usablespace:71.68MB
+Usedspace:28.32MB
+2017-05-07 09:03:04 Start compress
+2017-05-07 09:03:04 Finish compressed
+2017-05-07 09:03:04 All finished
+
+2017-05-07 09:07:19 Initialization......
+2017-05-07 09:07:19 Start backup mysqldump -hlocalhost --user=root --password=123456 --port=3306  --single-transaction --default-character-set=utf8 -R test --result-file=D:\backup\localhost\test\20170507090719\test.sql
+2017-05-07 09:07:19 Finished backup mysqldump -hlocalhost --user=root --password=123456 --port=3306  --single-transaction --default-character-set=utf8 -R test --result-file=D:\backup\localhost\test\20170507090719\test.sql
+Disk:C:\
+Freespace:32.66GB
+Totalspace:97.56GB
+Usablespace:32.66GB
+Usedspace:64.90GB
+Disk:D:\
+Freespace:226.54GB
+Totalspace:368.10GB
+Usablespace:226.54GB
+Usedspace:141.56GB
+Disk:E:\
+Freespace:0B
+Totalspace:0B
+Usablespace:0B
+Usedspace:0B
+Disk:F:\
+Freespace:639.40GB
+Totalspace:2794.39GB
+Usablespace:639.40GB
+Usedspace:2154.99GB
+Disk:Z:\
+Freespace:71.68MB
+Totalspace:100.00MB
+Usablespace:71.68MB
+Usedspace:28.32MB
+2017-05-07 09:07:20 Start compress
+2017-05-07 09:07:20 Finish compressed
+2017-05-07 09:07:20 All finished
+
+2017-05-07 09:08:22 Initialization......
+2017-05-07 09:08:22 Start backup mysqldump -hlocalhost --user=root --password=123456 --port=3306  --single-transaction --default-character-set=utf8 -R test --result-file=D:\backup\localhost\test\20170507090822\test.sql
+2017-05-07 09:08:23 Finished backup mysqldump -hlocalhost --user=root --password=123456 --port=3306  --single-transaction --default-character-set=utf8 -R test --result-file=D:\backup\localhost\test\20170507090822\test.sql
+Disk:C:\
+Freespace:32.66GB
+Totalspace:97.56GB
+Usablespace:32.66GB
+Usedspace:64.90GB
+Disk:D:\
+Freespace:226.54GB
+Totalspace:368.10GB
+Usablespace:226.54GB
+Usedspace:141.56GB
+Disk:E:\
+Freespace:0B
+Totalspace:0B
+Usablespace:0B
+Usedspace:0B
+Disk:F:\
+Freespace:639.40GB
+Totalspace:2794.39GB
+Usablespace:639.40GB
+Usedspace:2154.99GB
+Disk:Z:\
+Freespace:71.68MB
+Totalspace:100.00MB
+Usablespace:71.68MB
+Usedspace:28.32MB
+2017-05-07 09:08:23 Start compress
+2017-05-07 09:08:23 Finish compressed
+2017-05-07 09:08:23 All finished
+
+2017-05-07 09:08:51 Initialization......
+2017-05-07 09:08:52 Start backup mysqldump -hlocalhost --user=root --password=123456 --port=3306-R test --result-file=D:\backup\localhost\test\20170507090852\test.sql
+2017-05-07 09:08:52 Backup failed mysqldump -hlocalhost --user=root --password=123456 --port=3306-R test --result-file=D:\backup\localhost\test\20170507090852\test.sql
+Disk:C:\
+Freespace:32.65GB
+Totalspace:97.56GB
+Usablespace:32.65GB
+Usedspace:64.90GB
+Disk:D:\
+Freespace:226.54GB
+Totalspace:368.10GB
+Usablespace:226.54GB
+Usedspace:141.56GB
+Disk:E:\
+Freespace:0B
+Totalspace:0B
+Usablespace:0B
+Usedspace:0B
+Disk:F:\
+Freespace:639.40GB
+Totalspace:2794.39GB
+Usablespace:639.40GB
+Usedspace:2154.99GB
+Disk:Z:\
+Freespace:71.68MB
+Totalspace:100.00MB
+Usablespace:71.68MB
+Usedspace:28.32MB
+2017-05-07 09:08:52 Start compress
+2017-05-07 09:08:52 Finish compressed
+2017-05-07 09:08:52 All finished
+
+2017-05-07 09:22:55 Initialization......
+2017-05-07 09:22:56 Start backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --skip-add-locks --quick --single-transaction --default-character-set=utf8 -R test --result-file=D:\backup\localhost\test\20170507092256\test.sql
+2017-05-07 09:23:00 Finished backup mysqldump -hlocalhost --user=root --password=123456 --port=3306 --skip-add-locks --quick --single-transaction --default-character-set=utf8 -R test --result-file=D:\backup\localhost\test\20170507092256\test.sql
+Disk:C:\
+Freespace:32.65GB
+Totalspace:97.56GB
+Usablespace:32.65GB
+Usedspace:64.91GB
+Disk:D:\
+Freespace:226.54GB
+Totalspace:368.10GB
+Usablespace:226.54GB
+Usedspace:141.56GB
+Disk:E:\
+Freespace:0B
+Totalspace:0B
+Usablespace:0B
+Usedspace:0B
+Disk:F:\
+Freespace:639.40GB
+Totalspace:2794.39GB
+Usablespace:639.40GB
+Usedspace:2154.99GB
+Disk:Z:\
+Freespace:71.68MB
+Totalspace:100.00MB
+Usablespace:71.68MB
+Usedspace:28.32MB
+2017-05-07 09:23:01 Start compress
+2017-05-07 09:23:01 Finish compressed
+2017-05-07 09:23:01 All finished
+

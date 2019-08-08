@@ -1,0 +1,4 @@
+20170507090852
+class:MySQLBackupController.backupDTD()
+error: Backup failed mysqldump -hlocalhost --user=root --password=123456 --port=3306-R test --result-file=D:\backup\localhost\test\20170507090852\test.sql
+

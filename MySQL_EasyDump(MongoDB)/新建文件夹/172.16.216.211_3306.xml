@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="gb2312"?>
+<information>
+  <link linkname="172.16.216.211_3306">
+    <database db="daioa" guid="bbd8a470-7d8f-4b56-8ed8-f7079e3ab4f6" day="14" splite="1" />
+    <database db="sixtyeight" guid="6845dd4c-8d60-46d7-ade8-e7cb10099dd1" day="14" splite="1" />
+  </link>
+</information>

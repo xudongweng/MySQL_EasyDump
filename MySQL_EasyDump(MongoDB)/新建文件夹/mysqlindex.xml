@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<information>
+  <url bakid="10" linkname="localhost" user="root" pwd="" server="localhost" port="3306" savepath="backup" />
+  <url bakid="6" linkname="172.16.216.215_3306" user="sa" pwd="sa" server="172.16.216.215" port="3306" savepath="D:\MYSQL_BACKUP" />
+  <url bakid="3" linkname="172.16.216.21_3306" user="sa" pwd="sa" server="172.16.216.21" port="3306" savepath="D:\MYSQL_BACKUP" />
+  <url bakid="1" linkname="172.16.216.211_3306" user="sa" pwd="sa" server="172.16.216.211" port="3306" savepath="D:\MYSQL_BACKUP" />
+  <url bakid="2" linkname="172.16.216.4_3310" user="sa" pwd="sa" server="172.16.216.4" port="3310" savepath="D:\MYSQL_BACKUP" />
+  <url bakid="5" linkname="172.16.216.189_3306" user="sa" pwd="sa" server="172.16.216.189" port="3306" savepath="D:\MYSQL_BACKUP" />
+  <url bakid="7" linkname="172.16.209.10_3306" user="root" pwd="dream123" server="172.16.209.10" port="3306" savepath="D:\MYSQL_BACKUP" />
+  <url bakid="9" linkname="172.16.216.4_3306" user="sa" pwd="sa" server="172.16.216.4" port="3306" savepath="D:\MYSQL_BACKUP" />
+</information>
