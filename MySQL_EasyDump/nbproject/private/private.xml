@@ -3,51 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/link/uuid/Table.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/link/uuid/UUIDDic.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/mysql/MySQLObj.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/mysql/User.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/UUIDHelper.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/view/property/JDRemote.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/controller/XMLController.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/controller/MySQLBackupController.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/dump/DumpArrObject.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/StrObj.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/file/FileHelper.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/file/FileObjDic.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/view/sub/JDBackupPlan.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/link/LinkDic.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/compress/ZipUtilsHelper.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/link/Database.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/controller/thread/BackupThread.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/NetStateHelper.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/dump/DumpOption.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/compress/ZipFileDic.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/controller/xmlrpc/XmlRpcHandler.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/view/sub/JDCreateURL.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/compress/ZipFile.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/controller/thread/ZipThread.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/file/object/DiskObject.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/MySQLHelper.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/NowString.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/view/sub/JDEditURL.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/cfg/PublicProperty.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/cfg/PublicPropertyTmp.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/URLDic.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/compress/ZipReadHelper.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/StartServer.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/controller/ZipFileCheckController.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/file/object/FileObject.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/file/FormatSize.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/controller/xmlrpc/RPCInfoInterfaceController.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/link/DatabaseDic.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/URL.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/view/property/JDInit.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/MySQL_EasyDump.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/BackupURLDic.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/view/JFManagement.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/com/helper/file/object/FilePathObject.java</file>
-            <file>file:/D:/BaiduNetdiskDownload/MySQL_EasyDump/src/model/url/link/uuid/TableDic.java</file>
+            <file>file:/D:/GitHub/MySQL_EasyDump/MySQL_EasyDump/src/com/controller/MySQLBackupController.java</file>
+            <file>file:/D:/GitHub/MySQL_EasyDump/MySQL_EasyDump/src/com/controller/thread/BackupThread.java</file>
         </group>
     </open-files>
 </project-private>
