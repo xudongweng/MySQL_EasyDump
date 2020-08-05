@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="gb2312"?>
+<config>
+  <init mysqlindex="mysqlindex" launch="log/my" err="log/myerr" encoding="gb2312" backuptype="0" bin="D:\mysql-5.7.10-winx64\bin" backupthread="3" zipthread="3" remoteport="13306" />
+</config>

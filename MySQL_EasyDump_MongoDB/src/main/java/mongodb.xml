@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="gb2312"?>
+<information>
+  <init server="10.2.0.235" port="27017" db="backuplog" user="root" pwd="123456" importxml="0" outputxml="1" mongodb="1" />
+</information>
