@@ -1,6 +1,0 @@
-20160527181353
-class:MySQLHelper.getCon(sa,sa,172.16.216.21,3306)
-error:0Communications link failure
-
-The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
-

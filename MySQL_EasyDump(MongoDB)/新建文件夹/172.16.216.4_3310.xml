@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="gb2312"?>
-<information>
-  <link linkname="172.16.216.4_3310">
-    <database db="uniqlov1" guid="eaa6a755-cb68-4718-a6b0-bccdefb33c79" day="14" splite="1" />
-    <database db="uniqlov5" guid="c92a7ffa-aca0-4174-9bfa-28f92459bbbf" day="14" splite="1" />
-    <database db="uniqlov2" guid="b1782564-edd1-43f6-82fb-1bb995722268" day="14" splite="1" />
-    <database db="uniqlov3" guid="14c8a9f8-6647-457e-b9ac-da3f74f23a0f" day="14" splite="1" />
-  </link>
-</information>

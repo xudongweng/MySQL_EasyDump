@@ -1,4 +1,0 @@
-20160526173325
-class:MongoDBHelper.readDocument(10.2.0.234,27017,backuplog,mysqlindex,root,123456)
-error:Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=10.2.0.234:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]
-
