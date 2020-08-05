@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="gb2312"?>
-<config>
-  <init mysqlindex="mysqlindex" launch="D:\BaiduNetdiskDownload\MySQL_EasyDump\dist\log\my" err="D:\BaiduNetdiskDownload\MySQL_EasyDump\dist\log\myerr" encoding="gb2312" backuptype="0" bin="" backupthread="1" zipthread="3" remoteport="13306" />
-</config>
